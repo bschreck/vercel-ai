@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "name": "@bschreck/ai-with-assistant",
   "scripts": {
     "build": "turbo build",
     "changeset": "changeset",
