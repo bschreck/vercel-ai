@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "name": "@bschreck/vercel-ai",
   "scripts": {
     "build": "turbo build",
     "changeset": "changeset",
